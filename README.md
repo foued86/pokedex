@@ -1,2 +1,4 @@
 # pokedex
-A nodeJS application
+A nodeJS API with Express and JWT authentication. 
+
+
